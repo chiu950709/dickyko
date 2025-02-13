@@ -39,6 +39,18 @@ function About() {
                     <img src="https://banner2.cleanpng.com/20180704/zoa/aaxpuyy4g.webp" alt="jquery" width="85" height="85"/>   
                     <p class="logoDesc">jQuery</p>
                 </div>
+                <div>
+                    <img src="https://banner2.cleanpng.com/20190602/luc/kisspng-clip-art-portable-network-graphics-transparency-im-github-icon-of-glyph-style-available-in-svg-png-1713889468656.webp" alt="github" width="85" height="85"/>   
+                    <p class="logoDesc">github</p>
+                </div>
+                <div>
+                    <img src="https://banner2.cleanpng.com/20180821/luh/8ea6665bf3aad43b7fda77a4b556b08d.webp" alt="git" width="100" height="85"/>   
+                    <p class="logoDesc">git</p>
+                </div>
+                <div>
+                    <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FKI3Pd%2FbtreCs2SzON%2FQCTzZwh3lfjTMaK8goixo1%2Fimg.png" alt="git" width="85" height="85"/>   
+                    <p class="logoDesc">tortoise svn</p>
+                </div>
             </div>
             <h2 class='pageHeader'>Certificates</h2>
             <div width="85px">
