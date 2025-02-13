@@ -9,8 +9,8 @@ function Sidebar() {
     <header>
       <nav class="sidebar">
         <ol>
-          <li><a href="https://chiu950709.github.io/dickyko/about">About</a></li>
-          <li><a href="https://chiu950709.github.io/dickyko/experience">Experience</a></li>
+          <li><a href="about">About</a></li>
+          <li><a href="experience">Experience</a></li>
           {
           //<li><a href="contact">Contact</a></li>
           }
