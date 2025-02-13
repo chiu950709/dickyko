@@ -8,8 +8,8 @@ import Contact from './components/Contact';
 import './App.css';
 
    function App() {
-    return (
-    <Router basename="/dickyko">
+     return (
+    <Router>
       <div class="app-container">
         <div class="header">
           <Header />
