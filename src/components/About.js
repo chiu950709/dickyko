@@ -18,8 +18,28 @@ function About() {
             <p class="description">Fluent in <code>Cantonese (native proficiency)</code>, <code>English</code>, <code>and Mandarin</code></p>
             
             <h2 class='pageHeader'>Skills</h2>
-                <img src="https://banner2.cleanpng.com/20181109/oll/kisspng-java-development-kit-logo-programming-language-por-java-logo-svg-1713924793188.webp" alt="java" width="85" height="85"/>   
-                <img src="https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo.png" alt="c#" width="85" height="85"/>   
+            <div class="container">
+                <div>
+                    <img src="https://banner2.cleanpng.com/20181109/oll/kisspng-java-development-kit-logo-programming-language-por-java-logo-svg-1713924793188.webp" alt="java" width="85" height="85"/>   
+                    <p class="logoDesc">Java</p>
+                </div>
+                <div>
+                    <img src="https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo.png" alt="c#" width="85" height="85"/>
+                    <p class="logoDesc">c#</p>
+                </div>
+                <div>
+                    <img src="https://banner2.cleanpng.com/20180411/wre/avf0mauoj.webp" alt="mysql" width="85" height="85"/>
+                    <p class="logoDesc">Mysql</p>
+                </div>  
+                <div>
+                    <img src="https://images.seeklogo.com/logo-png/27/1/vue-js-logo-png_seeklogo-274070.png" alt="vue" width="85" height="85"/>  
+                    <p class="logoDesc">VueJs</p>
+                </div>
+                <div>
+                    <img src="https://banner2.cleanpng.com/20180704/zoa/aaxpuyy4g.webp" alt="jquery" width="85" height="85"/>   
+                    <p class="logoDesc">jQuery</p>
+                </div>
+            </div>
             <h2 class='pageHeader'>Certificates</h2>
             <div width="85px">
                 <img src="https://images.credly.com/size/680x680/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png" alt="Professional Scrum Master™ I (PSM I). Issued by Scrum.org" width="85" height="85"/>
