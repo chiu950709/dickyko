@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dickyko/static/css/main.61091090.css",
+    "main.js": "/dickyko/static/js/main.d70d03b9.js",
+    "static/js/488.d07c9134.chunk.js": "/dickyko/static/js/488.d07c9134.chunk.js",
+    "index.html": "/dickyko/index.html",
+    "main.61091090.css.map": "/dickyko/static/css/main.61091090.css.map",
+    "main.d70d03b9.js.map": "/dickyko/static/js/main.d70d03b9.js.map",
+    "488.d07c9134.chunk.js.map": "/dickyko/static/js/488.d07c9134.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61091090.css",
+    "static/js/main.d70d03b9.js"
+  ]
+}
