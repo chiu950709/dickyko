@@ -1,5 +1,6 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+//import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { HashRouter as Router, Route, Routes } from 'react-router-dom';
 import Header from './components/Header';
 import Sidebar from './components/Sidebar';
 import About from './components/About';
@@ -9,7 +10,7 @@ import './App.css';
 
    function App() {
      return (
-    <Router basename="/dickyko">
+    <Router>
       <div class="app-container">
         <div class="header">
           <Header />
