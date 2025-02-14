@@ -27,7 +27,9 @@ import './App.css';
               <Route path="/about" element={<About />} />
               <Route path="/experience" element={<Experience />} />
               <Route path="/contact" element={<Contact />} />
-              <Route path="/*"element={<PageNotFound />}/>
+              {
+              //<Route path="/*"element={<PageNotFound />}/>
+              }
             </Routes>
           </div>
         </div>
