@@ -5,7 +5,9 @@ function About() {
         <section id="about">
             <h2 class='pageHeader'>About Me</h2>
             <iframe title="myFrame" src="https://drive.google.com/file/d/1epa1OXmBbBTNYVwZq4DpWpZaKroNQaVx/preview" width="250" height="400" allow="autoplay"></iframe>
-        
+            <p class="intro">I am <b>Dicky Ko</b> from Hong Kong, currently base in Calgary, AB, Canada. A passionate full stack web developer with 5 years of experience in maintaining and enhancing the existing web applications
+                and creating website application. I have experience working with and have solid understanding in various frontend and backend frameworks. Strong problem-solving skills and able to work collaboratively in a team environment. 
+                I’m eager to continue learning new technologies and adapting to new challenges.</p>
             <h2 class='pageHeader'>Education</h2>
             <div class="education">
                 <h3>The Open University of Hong Kong
