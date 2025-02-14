@@ -17,6 +17,7 @@ function Sidebar() {
           }
           <li><a href="#!" onClick={() => openPopup('https://www.linkedin.com/in/dicky-ko-493053234/')}>Linkedin</a></li>
           <li><a href="#!" onClick={() => openPopup('https://drive.google.com/file/d/1iG5CH5W3yYwtPuRYQbAjfxGoU-E1sXtw/view?usp=sharing')}>Resume</a></li>
+          <li><a href="#!" onClick={() => openPopup('https://github.com/chiu950709?tab=repositories')}>GitHub</a></li>
         </ol>
       </nav>
     </header>
