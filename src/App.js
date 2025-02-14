@@ -6,6 +6,7 @@ import Sidebar from './components/Sidebar';
 import About from './components/About';
 import Experience from './components/Experience';
 import Contact from './components/Contact';
+import PageNotFound from './components/404NotFound';
 import './App.css';
 
    function App() {
@@ -26,6 +27,7 @@ import './App.css';
               <Route path="/about" element={<About />} />
               <Route path="/experience" element={<Experience />} />
               <Route path="/contact" element={<Contact />} />
+              <Route path="*"element={<PageNotFound />}/>
             </Routes>
           </div>
         </div>
