@@ -30,9 +30,9 @@ function About() {
                     <p class="logoDesc">c#</p>
                 </div>
                 <div>
-                    <img src="https://banner2.cleanpng.com/20180411/wre/avf0mauoj.webp" alt="mysql" width="85" height="85"/>
-                    <p class="logoDesc">Mysql</p>
-                </div>  
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/512px-.NET_Core_Logo.svg.png?20210328084203" alt=".NET" width="85" height="85"/>
+                    <p class="logoDesc">.NET</p>
+                </div>
                 <div>
                     <img src="https://images.seeklogo.com/logo-png/27/1/vue-js-logo-png_seeklogo-274070.png" alt="vue" width="85" height="85"/>  
                     <p class="logoDesc">VueJs</p>
@@ -41,6 +41,18 @@ function About() {
                     <img src="https://banner2.cleanpng.com/20180704/zoa/aaxpuyy4g.webp" alt="jquery" width="85" height="85"/>   
                     <p class="logoDesc">jQuery</p>
                 </div>
+                <div>
+                    <img src="https://banner2.cleanpng.com/20180411/wre/avf0mauoj.webp" alt="mysql" width="85" height="85"/>
+                    <p class="logoDesc">Mysql</p>
+                </div>
+                <div>
+                    <img src="https://datawarehouse.io/wp-content/uploads/2020/04/MSSQL-1-600x600.png" alt="MSSQL" width="85" height="85"/>
+                    <p class="logoDesc">MSSQL</p>
+                </div>   
+                <div>
+                    <img src="https://images.saasworthy.com/tr:w-160,h-0,c-at_max,e-sharpen-1/mariadb_9071_logo_1666786245_hzzcv.png" alt="mariadb" width="85" height="85"/>
+                    <p class="logoDesc">Mariadb</p>
+                </div> 
                 <div>
                     <img src="https://banner2.cleanpng.com/20190602/luc/kisspng-clip-art-portable-network-graphics-transparency-im-github-icon-of-glyph-style-available-in-svg-png-1713889468656.webp" alt="github" width="85" height="85"/>   
                     <p class="logoDesc">github</p>
