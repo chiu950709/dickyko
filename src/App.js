@@ -1,6 +1,5 @@
 import React from 'react';
-//import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import { HashRouter as Router, Route, Routes } from 'react-router-dom';
+import { HashRouter as Router, Route, Routes, Navigate } from 'react-router-dom';
 import Header from './components/Header';
 import Sidebar from './components/Sidebar';
 import About from './components/About';
@@ -24,12 +23,11 @@ import './App.css';
 
           <div class="content">
             <Routes>
+              <Route path="/" element={<Navigate to="/about" />} />
               <Route path="/about" element={<About />} />
               <Route path="/experience" element={<Experience />} />
               <Route path="/contact" element={<Contact />} />
-              
               <Route path="*"element={<PageNotFound />}/>
-              
             </Routes>
           </div>
         </div>
