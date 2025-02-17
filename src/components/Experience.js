@@ -162,10 +162,6 @@ function Experience() {
                             &emsp;&emsp;<span class="jobDuties">"Job Duties"</span>&#58;&nbsp;&#91;
                             <br></br>
                             <span class="jobValue">
-                                &emsp;&emsp;&emsp;&emsp;"Developed a web application and assisted in development of the REST API"
-                            </span>,
-                            <br></br>
-                            <span class="jobValue">
                                 &emsp;&emsp;&emsp;&emsp;"Assist customers with payment transactions at service counters, sales of products"
                             </span>,
                             <br></br>
