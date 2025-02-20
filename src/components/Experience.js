@@ -8,7 +8,7 @@ function Experience() {
     return (
         <section id="experience">
             <h2 class="pageHeader">Work Experience</h2>
-            <h2 class="pageHeader">Relevant IT Experience</h2>
+            <h2 class="pageSubHeader">Relevant IT Experience</h2>
             <div class="experience">
                 <h3>Digital Policy Office(Former name: Office of the Government Chief Information Officer) 
                     <code>Oct 2023 – Oct 2024</code>
@@ -145,7 +145,7 @@ function Experience() {
                 <a href="https://www.vpet.edu.hk/en/" class="link-style" target="_blank" rel="noopener noreferrer" >VPET</a> 
             </div> 
 
-            <h2 class="pageHeader">Relevant Customer Service Experience</h2>
+            <h2 class="pageSubHeader">Relevant Customer Service Experience</h2>
             <div class="experience">
                 <h3>Peak Tramways Company Limited
                     <code>Aug 2022 – Sep 2024</code>
