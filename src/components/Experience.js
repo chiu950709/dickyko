@@ -151,7 +151,8 @@ function Experience() {
                     <code>Aug 2022 – Sep 2024</code>
                 </h3>
                 <a href="https://www.thepeak.com.hk/en" target="_blank" rel="noopener noreferrer" >
-                <img src="https://www.thepeak.com.hk/sites/peak/files/2025-01/The%20peak%20tram_option%202_ENG.png" alt="PeakTram" width="1000" height="450"/></a>
+                <img src="https://www.thepeak.com.hk/sites/peak/files/2025-01/The%20peak%20tram_option%202_ENG.png" class="image_full" alt="PeakTram" width="1000" height="450"/>
+                <img src="https://www.thepeak.com.hk/sites/peak/files/2022-06/Peak%20Tram%20315%20x%20196%20%282%29.png" class="image_mobile" alt="PeakTram" width="315" height="196"/></a>
                 <div class="detail"><code class="detail">
                     &#123;
                     <div>

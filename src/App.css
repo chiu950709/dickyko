@@ -143,6 +143,14 @@
   font-size:150%;
 }
 
+.image_full {
+  display: block;
+}
+
+.image_mobile {
+  display: none;
+}
+
 a[href="#!"]:active {
   cursor: pointer;
 }
@@ -183,6 +191,14 @@ h3 {
   .header {
     height: auto; 
     padding: 10px 5px; 
+  }
+
+  .image_full {
+    display: none;
+  }
+  
+  .image_mobile {
+    display: block;
   }
 
   .container {
