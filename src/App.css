@@ -63,7 +63,7 @@
 .content {
   background-color: black;
   margin-left: 250px; 
-  padding: 20px;
+  padding: 10px;
   flex: 1;
   overflow-y: auto;
 }
