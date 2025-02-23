@@ -1,12 +1,12 @@
 import React from 'react';
-import myImage from '../img/selfphoto.jpeg'; 
+import config from '../config';
 
 function About() {
     //<a href="https://www.thepeak.com.hk/en" target="_blank" rel="noopener noreferrer" >Hong Kong Peak Tramways Company Limited</a>
     return (
         <section id="about">
             <h2 class='pageHeader'>About Me</h2>
-            <img src={myImage} alt="java" width="384" height="528"/> 
+            <img src={`${config.SELF_IMG_PATH}`}  alt="self" width="384" height="528"/> 
             <p class="intro">I am <code>Dicky Ko</code> from Hong Kong, currently base in Calgary, AB, Canada.</p> 
             <p class="intro">A passionate <code>full stack web developer</code> with 5 years of experience in maintaining and enhancing the existing web applications
                 and creating website application. I have experience working with and have solid understanding in various frontend and backend frameworks. Strong problem-solving skills and able to work collaboratively in a team environment. 
