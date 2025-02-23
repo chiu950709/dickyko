@@ -1,4 +1,5 @@
 import React from 'react';
+import config from '../config';
 
 function Experience() {
     /*const openPopup = (url) => {
@@ -139,10 +140,10 @@ function Experience() {
                 //<a href="#!" class="link-style" onClick={() => openPopup('https://feddcs.cspe.edu.hk/')}>FEDDCS</a>&emsp;&emsp;
                 //<a href="#!" class="link-style" onClick={() => openPopup('https://www.vpet.edu.hk/en/')}>VPET</a>  
                 }
-                <a href="https://www.eapp.gov.hk/en/" class="link-style" target="_blank" rel="noopener noreferrer" >EAPP</a>&emsp;&emsp; 
-                <a href="https://www.cspe.edu.hk/en/" class="link-style" target="_blank" rel="noopener noreferrer" >Concourse</a>&emsp;&emsp;
-                <a href="https://feddcs.cspe.edu.hk/" class="link-style" target="_blank" rel="noopener noreferrer" >FEDDCS</a>&emsp;&emsp;
-                <a href="https://www.vpet.edu.hk/en/" class="link-style" target="_blank" rel="noopener noreferrer" >VPET</a> 
+                <a href={`${config.LINK.EAPP}`} class="link-style" target="_blank" rel="noopener noreferrer" >EAPP</a>&emsp;&emsp; 
+                <a href={`${config.LINK.CONCOURSE}`} class="link-style" target="_blank" rel="noopener noreferrer" >Concourse</a>&emsp;&emsp;
+                <a href={`${config.LINK.FEDDCS}`} class="link-style" target="_blank" rel="noopener noreferrer" >FEDDCS</a>&emsp;&emsp;
+                <a href={`${config.LINK.VPET}`} class="link-style" target="_blank" rel="noopener noreferrer" >VPET</a> 
             </div> 
 
             <h2 class="pageSubHeader">Relevant Customer Service Experience</h2>
