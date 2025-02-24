@@ -105,7 +105,7 @@
 .pageHeader {
   background:linear-gradient(rgba(247, 166, 12, 1), rgba(255, 34, 87, 1), rgba(154, 39, 238, 1), rgba(35, 102, 247, 1));;
   -webkit-text-fill-color: transparent; 
-  -webkit-background-clip: text; 
+  background-clip: text; 
 }
 
 .pageSubHeader {
