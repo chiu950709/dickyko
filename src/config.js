@@ -1,8 +1,10 @@
 import selfPhoto from './img/selfphoto.jpeg';
+import websiteLogo from './img/WebsiteLogo.png';
 
 const config = {
   IMG: {
     SELF_IMG_PATH: selfPhoto, 
+    WEBSITE_IMG_PATH: websiteLogo,
   },
   LINK :{
     LINKEDIN: 'https://www.linkedin.com/in/dicky-ko-493053234/',
