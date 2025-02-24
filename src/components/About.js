@@ -1,7 +1,10 @@
-import React from 'react';
+import React, { useEffect }  from 'react';
 import config from '../config';
 
 function About() {
+    useEffect(() => {
+        document.title = "About Me ~ Dicky Ko"; // Change the page title dynamically
+    }, []);
     //<a href="https://www.thepeak.com.hk/en" target="_blank" rel="noopener noreferrer" >Hong Kong Peak Tramways Company Limited</a>
     return (
         <section id="about">

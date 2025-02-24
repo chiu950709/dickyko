@@ -1,11 +1,13 @@
-import React from 'react';
+import React, { useEffect }  from 'react';
 import config from '../config';
 
 function Experience() {
     /*const openPopup = (url) => {
         window.open(url, 'popup');
     };*/
-
+    useEffect(() => {
+        document.title = "Experience ~ Dicky Ko"; // Change the page title dynamically
+    }, []);
     return (
         <section id="experience">
             <h2 class="pageHeader">Work Experience</h2>
