@@ -12,6 +12,9 @@ const config = {
     CONCOURSE: 'https://www.cspe.edu.hk/en/',
     FEDDCS: 'https://feddcs.cspe.edu.hk/',
     VPET: 'https://www.vpet.edu.hk/en/',
+    DPO: 'https://www.digitalpolicy.gov.hk/en/index.html',
+    AIG: 'https://www.aig.com/home',
+    ASL: 'https://www1.asl.com.hk/',
   }
 };
 

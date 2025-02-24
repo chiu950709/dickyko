@@ -55,13 +55,13 @@ function Experience() {
             </div> 
             
             <div class="experience">
-                <h3>Cognizant 
-                    <code>June 2022 – Oct 2023</code>
+                <h3>Cognizant &emsp;
                     {
                     //<a href="#!" onClick={() => openPopup('https://www.aig.com/home')}>
                     }
-                    <a href="https://www.aig.com/home'" target="_blank" rel="noopener noreferrer" >
+                    <a href={`${config.LINK.AIG}`} target="_blank" rel="noopener noreferrer" >
                     <img src="https://www.aig.com/content/experience-fragments/aig/america-canada/us_aig/en/header/master/_jcr_content/root/responsivegrid_1958828262/responsivegrid_copy/container_copy_copy/container_897891850/image_409587976.coreimg.png/1677180907520/icon-aig-logo-white.png" alt="AIG" width="89" height="48"/></a>
+                    <code>June 2022 – Oct 2023</code>
                 </h3>
                 <div class="detail"><code class="detail">
                     &#123;
